@@ -1,2 +1,2 @@
-# web_scraper_with_python
+# WebScraper
 make a web scraper with python
